@@ -1,0 +1,8 @@
+# Path where local repositories will be created
+LOCAL_REPO_BASE_DIR: "path/to/localrepo"
+
+# Name of the GitHub repository to be created
+REPO_NAME: "my-repo-name-test"
+
+# Description of the GitHub repository
+REPO_DESCRIPTION: "This repository is managed automatically by Terraform and a Python script. It is used for automation testing."
